@@ -1,6 +1,6 @@
 # Python DevOps Automation Projects
 
-This repository contains **9 real-world Python automation scripts** built while learning **Python for DevOps and Cloud Engineering**.
+This repository contains ** real-world Python automation scripts** built while learning **Python for DevOps and Cloud Engineering**.
 
 Instead of focusing only on Python syntax, these projects solve practical infrastructure and automation problems that engineers face in production environments.
 
