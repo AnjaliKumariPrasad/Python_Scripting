@@ -192,7 +192,46 @@ Example:
   "environment": "production"
 }
 ```
+------
 
+## Script10. EC2 Inventory Script
+Show all the details of the instansce.
+
+Features:
+
+* Lists all EC2 instances
+* Shows state, instance type, IP addresses
+
+---
+
+## Script11. EC2 Auto Tagging Script
+Add tags to new EC2 created without tags.
+
+Features:
+
+* Detects untagged EC2 instances
+* Adds Environment=Dev tag automatically
+
+---
+
+## Script12. Stop Running EC2 Script
+Automate the task of stopping every running EC2 instance.
+
+Features:
+
+* Detects running EC2 instances
+* Stops instances automatically for cost optimization
+
+----
+
+## Script13. AWS Security Audit Script
+Script when need a quick security audit.
+
+Features:
+
+* Lists IAM users
+*  Detects publicly exposed EC2 instances
+  
 ---
 
 ## Skills Learned
